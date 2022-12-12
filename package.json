@@ -1,5 +1,5 @@
 {
-  "private": true,
+  "private": false,
   "name": "masterPortfolio",
   "homepage": "https://gideon.github.io/gideon",
   "version": "0.1.0",
