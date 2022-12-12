@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "8a003a4148539f874b5c8c77897966a3",
+    "revision": "a3e7642dc5e689fdd33ed126c8bb40ea",
     "url": "/gideonotieno.github.io/index.html"
   },
   {
-    "revision": "3e1aac2ed266d4ef6520",
+    "revision": "ecb33c07aec7a046472f",
     "url": "/gideonotieno.github.io/static/css/main.0d10f807.chunk.css"
   },
   {
-    "revision": "6e7638dfe8c0b25bbb85",
-    "url": "/gideonotieno.github.io/static/js/2.479729d4.chunk.js"
+    "revision": "55b7efa2cec7046f4a68",
+    "url": "/gideonotieno.github.io/static/js/2.f45ec799.chunk.js"
   },
   {
-    "revision": "3e1aac2ed266d4ef6520",
-    "url": "/gideonotieno.github.io/static/js/main.c9184905.chunk.js"
+    "revision": "ecb33c07aec7a046472f",
+    "url": "/gideonotieno.github.io/static/js/main.26feb673.chunk.js"
   },
   {
     "revision": "54b0ccdcee1126e6c80e",

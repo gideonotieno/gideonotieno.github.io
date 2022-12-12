@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/gideonotieno.github.io/static/css/main.0d10f807.chunk.css",
-    "main.js": "/gideonotieno.github.io/static/js/main.c9184905.chunk.js",
-    "main.js.map": "/gideonotieno.github.io/static/js/main.c9184905.chunk.js.map",
+    "main.js": "/gideonotieno.github.io/static/js/main.26feb673.chunk.js",
+    "main.js.map": "/gideonotieno.github.io/static/js/main.26feb673.chunk.js.map",
     "runtime-main.js": "/gideonotieno.github.io/static/js/runtime-main.026d21c9.js",
     "runtime-main.js.map": "/gideonotieno.github.io/static/js/runtime-main.026d21c9.js.map",
-    "static/js/2.479729d4.chunk.js": "/gideonotieno.github.io/static/js/2.479729d4.chunk.js",
-    "static/js/2.479729d4.chunk.js.map": "/gideonotieno.github.io/static/js/2.479729d4.chunk.js.map",
+    "static/js/2.f45ec799.chunk.js": "/gideonotieno.github.io/static/js/2.f45ec799.chunk.js",
+    "static/js/2.f45ec799.chunk.js.map": "/gideonotieno.github.io/static/js/2.f45ec799.chunk.js.map",
     "index.html": "/gideonotieno.github.io/index.html",
-    "precache-manifest.8a38d0be4cf90db4a62337dd00b3e23c.js": "/gideonotieno.github.io/precache-manifest.8a38d0be4cf90db4a62337dd00b3e23c.js",
+    "precache-manifest.2b7f82d77dd16355c462349341d80f33.js": "/gideonotieno.github.io/precache-manifest.2b7f82d77dd16355c462349341d80f33.js",
     "service-worker.js": "/gideonotieno.github.io/service-worker.js",
     "static/css/main.0d10f807.chunk.css.map": "/gideonotieno.github.io/static/css/main.0d10f807.chunk.css.map",
     "static/media/index.css": "/gideonotieno.github.io/static/media/Montserrat-Regular.ee653992.ttf",
@@ -51,8 +51,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.026d21c9.js",
-    "static/js/2.479729d4.chunk.js",
+    "static/js/2.f45ec799.chunk.js",
     "static/css/main.0d10f807.chunk.css",
-    "static/js/main.c9184905.chunk.js"
+    "static/js/main.26feb673.chunk.js"
   ]
 }
