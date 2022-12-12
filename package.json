@@ -1,7 +1,7 @@
 {
   "private": false,
   "name": "masterPortfolio",
-  "homepage": "https://gideon.github.io/gideon",
+  "homepage": "https://gideon.github.io/gideonotieno",
   "version": "0.1.0",
   "scripts": {
     "build": "react-scripts build",
