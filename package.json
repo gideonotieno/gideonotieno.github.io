@@ -1,5 +1,5 @@
 {
-  "private": false,
+  "private": true,
   "name": "masterPortfolio",
   "homepage": "https://gideonotieno.github.io/gideonotieno.github.io",
   "version": "0.1.0",
