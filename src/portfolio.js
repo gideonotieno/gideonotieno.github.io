@@ -13,7 +13,7 @@ const seo = {
   og: {
     title: "Otieno Gideon",
     type: "website",
-    url: "https://bit.ly/3VJ7mJp",
+    url: "bit.ly/3Z6CeFm",
   },
 };
 
@@ -21,13 +21,13 @@ const seo = {
 const greeting = {
   title: "Otieno Gideon",
   logo_name: "otienogideon",
-  nickname: "<#/>",
+  nickname: "<stable_g/>",
   subTitle:
     "A passionate individual who always thrives to work on end to end products which develop sustainable and scalable social and technical systems to create impact.",
   resumeLink:
     "#",
-  portfolio_repository: "https://github.com/gideonot",
-  githubProfile: "https://github.com/gideonot",
+  portfolio_repository: "https://github.com/gideonotieno",
+  githubProfile: "https://github.com/gideonotieno",
 };
 
 const socialMediaLinks = [
