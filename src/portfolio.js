@@ -35,7 +35,7 @@ const socialMediaLinks = [
   github: "https://github.com/gideonotieno/",
   // linkedin: "#",
   gmail: "gideonotieno99@gmail.com",
-  // gitlab: "#",
+  gitlab: "#",
   // facebook: "#",
   // twitter: "#",
   // instagram: "#"
@@ -104,7 +104,7 @@ const skills = {
       skills: [
         "⚡ Building responsive website front end using React-Redux",
         "⚡ Developing mobile applications using Flutter, React Native and solo android apps using Kotlin",
-        "⚡ Creating application backend in Node, Express & Flask",
+        "⚡ Creating application backend in Node, Express",
       ],
       softwareSkills: [
         {
@@ -152,19 +152,9 @@ const skills = {
             color: "#CB3837",
           },
         },
-        {
-          skillName: "Yarn",
-          fontAwesomeClassname: "simple-icons:yarn",
-          style: {
-            color: "#2C8EBB",
-          },
+        
         },
-        {
-          skillName: "Gatsby",
-          fontAwesomeClassname: "simple-icons:gatsby",
-          style: {
-            color: "#663399",
-          },
+        
         },
         
         },
