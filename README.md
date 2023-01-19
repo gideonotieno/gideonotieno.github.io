@@ -1,1 +1,2 @@
-A portfolio website built in ReactJS
+A personal portfolio website built in ReactJS and using css
+
