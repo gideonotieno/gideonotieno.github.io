@@ -1,12 +1,9 @@
 {
   "private": true,
   "name": "masterPortfolio",
-  "homepage": "https://gideonotieno.github.io/",
   "version": "0.1.0",
   "scripts": {
     "build": "react-scripts build",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -b gh-pages -d build",
     "eject": "react-scripts eject",
     "start": "react-scripts --openssl-legacy-provider start",
     "test": "react-scripts test"
@@ -39,7 +36,6 @@
     "@iconify/icons-logos": "^1.0.9",
     "@iconify/react": "^1.1.1",
     "dotenv": "^6.2.0",
-    "gh-pages": "^4.0.0",
     "husky": "^4.2.5",
     "lint-staged": "^10.2.11",
     "prettier": "2.0.5"
