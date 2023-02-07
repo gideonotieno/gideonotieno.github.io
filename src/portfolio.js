@@ -25,20 +25,20 @@ const greeting = {
   subTitle:
     "A passionate individual who always thrives to work on end to end products which develop sustainable and scalable social and technical systems to create impact.",
   resumeLink:
-    "#",
-  portfolio_repository: "https://github.com/ashutosh1919/masterPortfolio",
-  githubProfile: "https://github.com/ashutosh1919",
+    "https://drive.google.com/file/d/18EDdsYEBh8Xb8LOkqQfIXu_Wpa5xwcqB/view?usp=sharing",
+  portfolio_repository: "https://github.com/gideonotieno/gideonotieno.github.io",
+  githubProfile: "https://github.com/gideonotieno",
 };
 
 const socialMediaLinks = [
   /* Your Social Media Link */
-  // github: "https://github.com/ashutosh1919",
-  // linkedin: "https://www.linkedin.com/in/ashutosh-hathidara-88710b138/",
-  // gmail: "ashutoshhathidara98@gmail.com",
-  // gitlab: "https://gitlab.com/ashutoshhathidara98",
-  // facebook: "https://www.facebook.com/laymanbrother.19/",
-  // twitter: "https://twitter.com/ashutosh_1919",
-  // instagram: "https://www.instagram.com/layman_brother/"
+  // github: "https://github.com/gideonotieno",
+  // linkedin: "#",
+  // gmail: "#",
+  // gitlab: "#",
+  // facebook: "#",
+  // twitter: "#",
+  // instagram: "#"
 
   {
     name: "Github",
