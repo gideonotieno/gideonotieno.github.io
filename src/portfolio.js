@@ -306,7 +306,7 @@ const degrees = {
     {
       title: "Kisii University",
       subtitle: "B.Sc. Computer Science",
-      logo_path: "iiitk_logo.png",
+      logo_path: "kisii.png",
       alt_name: "ksu",
       duration: "2020 - 2024",
       descriptions: [
