@@ -307,7 +307,7 @@ const degrees = {
       title: "Kisii University",
       subtitle: "B.Sc. Computer Science",
       logo_path: "iiitk_logo.png",
-      alt_name: "IIITDM Kurnool",
+      alt_name: "ksu",
       duration: "2020 - 2024",
       descriptions: [
         "⚡ I have studied basic software engineering subjects like DS, Algorithms, DBMS, OS, CA, AI etc.",
