@@ -151,7 +151,7 @@ class Experience extends Component {
       <div className="experience-main">
         <Header theme={theme} />
         <div className="basic-experience">
-          <Fade bottom duration={2000} distance="40px">
+          <Fade bottom duration={2000} distance="35px">
             <div className="experience-heading-div">
               <div className="experience-heading-img-div">
                 {/* <img
